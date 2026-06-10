@@ -2,7 +2,7 @@ name: Daily Fuzzy Markov Training
 
 on:
   schedule:
-    - cron: '50 01 * * *'
+    - cron: '50 02 * * *'
   workflow_dispatch:
 
 jobs:
